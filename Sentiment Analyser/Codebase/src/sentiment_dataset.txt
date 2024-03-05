@@ -1,0 +1,182 @@
+This movie was excellent.	positive
+The food at this restaurant is amazing.	positive
+I hate waiting in long queues.	negative
+The service was terrible.	negative
+The weather is fine today.	neutral
+I love spending time with my family.	positive
+The product is disappointing.	negative
+The performance was outstanding.	positive
+The book was average.	neutral
+The customer support is awful.	negative
+The experience was great.	positive
+The taste was meh.	neutral
+The view is breathtaking.	positive
+The internet speed is horrible.	negative
+I had an ok time at the party.	neutral
+The price is acceptable.	neutral
+The show was fantastic.	positive
+The quality is bad.	negative
+The game was so-so.	neutral
+I am excited about the upcoming event.	positive
+The service was mediocre.	neutral
+I hate this product.	negative
+The place is wonderful.	positive
+The performance was lackluster.	negative
+The book was good.	positive
+The food was terrible.	negative
+The movie was average.	neutral
+The customer service was excellent.	positive
+The weather is bad.	negative
+The taste is fine.	neutral
+The service was outstanding.	positive
+The internet connection is terrible.	negative
+I had a great time at the party.	positive
+The price is too high.	negative
+The show was boring.	negative
+The quality is excellent.	positive
+The game was fun.	positive
+I don't like the upcoming event.	negative
+The service was good.	positive
+The experience was awful.	negative
+The taste was amazing.	positive
+I am disappointed with the product.	negative
+The place is terrible.	negative
+The performance was great.	positive
+The book was terrible.	negative
+The food is average.	neutral
+The movie was wonderful.	positive
+The customer service was terrible.	negative
+The weather is wonderful.	positive
+The taste was terrible.	negative
+The service was wonderful.	positive
+The internet speed is good.	positive
+I had a terrible time at the party.	negative
+The price is acceptable.	neutral
+The show was fantastic.	positive
+The quality is good.	positive
+The game was okay.	neutral
+I am not interested in the upcoming event.	negative
+The service was excellent.	positive
+The experience was terrible.	negative
+The taste was great.	positive
+I am satisfied with the product.	positive
+The place is great.	positive
+The performance was awful.	negative
+The book was amazing.	positive
+The food was disappointing.	negative
+The movie is okay.	neutral
+The customer service was great.	positive
+The weather is terrible.	negative
+The taste was acceptable.	neutral
+The service was fantastic.	positive
+The internet connection is excellent.	positive
+I had a wonderful time at the party.	positive
+The price is too low.	positive
+The show was boring.	negative
+The quality is terrible.	negative
+The game was enjoyable.	positive
+I am excited about the upcoming event.	positive
+The service was mediocre.	neutral
+I don't like this product.	negative
+The place is wonderful.	positive
+The performance was lackluster.	negative
+The book was good.	positive
+The food was terrible.	negative
+The movie was okay.	neutral
+The customer service was excellent.	positive
+The weather is bad.	negative
+The taste is fine.	neutral
+The service was outstanding.	positive
+The internet connection is terrible.	negative
+I had a great time at the party.	positive
+The price is too high.	negative
+The show was boring.	negative
+The quality is excellent.	positive
+The game was fun.	positive
+I don't like the upcoming event.	negative
+The service was good.	positive
+The experience was awful.	negative
+The taste was amazing.	positive
+I am disappointed with the product.	negative
+The place is terrible.	negative
+The performance was great.	positive
+The book was terrible.	negative
+The food is okay.	neutral
+The movie was wonderful.	positive
+The customer service was terrible.	negative
+The weather is wonderful.	positive
+The taste was terrible.	negative
+The service was wonderful.	positive
+The internet speed is good.	positive
+I had a terrible time at the party.	negative
+The price is acceptable.	neutral
+The show was fantastic.	positive
+The quality is good.	positive
+The game was okay.	neutral
+I am not interested in the upcoming event.	negative
+The service was excellent.	positive
+The experience was terrible.	negative
+The taste was great.	positive
+I am satisfied with the product.	positive
+The place is great.	positive
+The performance was awful.	negative
+The book was amazing.	positive
+The food was disappointing.	negative
+The movie is fine.	neutral
+The customer service was great.	positive
+The weather is terrible.	negative
+The taste is acceptable.	neutral
+The service was fantastic.	positive
+The internet connection is excellent.	positive
+I had a wonderful time at the party.	positive
+The price is too low.	positive
+The show was boring.	negative
+The quality is terrible.	negative
+The game was enjoyable.	positive
+I am excited about the upcoming event.	positive
+The service was mediocre.	neutral
+I don't like this product.	negative
+The place is wonderful.	positive
+The performance was lackluster.	negative
+The book was good.	positive
+The food was terrible.	negative
+The movie is okay.	neutral
+The customer service was excellent.	positive
+The weather is bad.	negative
+The taste is fine.	neutral
+The service was outstanding.	positive
+The internet connection is terrible.	negative
+I had a great time at the party.	positive
+The price is too high.	negative
+The show was boring.	negative
+The quality is excellent.	positive
+The game was fun.	positive
+I don't like the upcoming event.	negative
+The service was good.	positive
+The experience was awful.	negative
+The taste was amazing.	positive
+I am disappointed with the product.	negative
+The place is terrible.	negative
+The performance was great.	positive
+The book was terrible.	negative
+The food is average.	neutral
+The movie was wonderful.	positive
+The customer service was terrible.	negative
+The weather is wonderful.	positive
+The taste was terrible.	negative
+The service was wonderful.	positive
+The internet speed is good.	positive
+I had a terrible time at the party.	negative
+The price is acceptable.	neutral
+The show was fantastic.	positive
+The quality is good.	positive
+The game was okay.	neutral
+I am not interested in the upcoming event.	negative
+The service was excellent.	positive
+The experience was terrible.	negative
+The taste was great.	positive
+I am satisfied with the product.	positive
+The place is great.	positive
+The performance was awful.	negative
+The book was amazing.	positive
+The food was disappointing.	negative
